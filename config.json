@@ -1,0 +1,9 @@
+{
+    "bfv": {
+        "jp1": "bfv://V-jp.artrix.tech:443/vmess/1?rtype=lanchina&dns=202.12.27.33%2C4.4.4.4%2C8.8.8.8&tnet=kcp&mux=1&muxc=8&ldns=1&ldnsl=202.96.134.133%2C114.114.114.114%2C223.5.5.5&uid=a253012a-1159-4489-8f4c-543b33d0d652&aid=64&sec=aes-128-gcm&kcp=mtu%3D1350%26tti%3D50%26up%3D100%26down%3D100%26cctl%3D1%26read%3D2%26write%3D2%26header%3Dwechat-video#Jp",
+        "jp2": "bfv://V-jp.artrix.tech:443/vmess/1?rtype=lanchina&dns=202.12.27.33%2C4.4.4.4%2C8.8.8.8&tnet=kcp&mux=1&muxc=8&ldns=1&ldnsl=202.96.134.133%2C114.114.114.114%2C223.5.5.5&uid=a253012a-1159-4489-8f4c-543b33d0d652&aid=64&sec=aes-128-gcm&kcp=mtu%3D1350%26tti%3D50%26up%3D2%26down%3D2%26cctl%3D1%26read%3D2%26write%3D2%26header%3Dwechat-video#Jp"
+    },
+    "v2rayn": {
+        "jp1": "vmess://ew0KICAicHMiOiAiQXJ0cml4LUpQIiwNCiAgImFkZCI6ICJ2LWpwLmFydHJpeC50ZWNoIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImEyNTMwMTJhLTExNTktNDQ4OS04ZjRjLTU0M2IzM2QwZDY1MiIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogImtjcCIsDQogICJ0eXBlIjogIndlY2hhdC12aWRlbyIsDQogICJob3N0IjogIiIsDQogICJ0bHMiOiAiIg0KfQ=="
+    }
+}
